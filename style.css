@@ -1,0 +1,27 @@
+body {
+  background: rgb(12,122,109);
+  background: radial-gradient(circle, rgba(12,122,109,0.6751740139211138) 14%, rgba(2,0,36,0.5127610208816705) 48%, rgba(135,173,181,1) 100%);
+}
+
+.title{ 
+  margin-bottom: 10px; 
+  text-align: center; 
+  width: 210px; 
+  color:rgb(72, 8, 248); 
+  border: solid black 2px; 
+  } 
+
+  input[type="button"] 
+  { 
+  background-color:rgb(218, 18, 236); 
+  color: black; 
+  border: solid black 2px; 
+  width:100%; 
+  } 
+
+  input[type="text"] 
+  { 
+  background-color:white; 
+  border: solid black 2px; 
+  width:100%; 
+  } 
